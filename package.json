@@ -1,18 +1,35 @@
 {
-  "name": "vue_js",
+  "name": "12-gl-2026-groupe-04-gestion-depenses",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test": "node --test",
+    "start": "electron .",
+    "bluid:win": "nmp run bluid && electron-bluider",
+    "build:win": "npm run bluid && electron-bluider",
+    "bluild:win": "npm run bluild && electron-bluilder",
+    "bluild": "vite bluild"
   },
   "dependencies": {
-    "vue": "^3.5.42"
+    "vue": "^3.5.0"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^6.0.8",
-    "vite": "^8.3.0"
+    "@vitejs/plugin-vue": "^5.2.0",
+    "vite": "^6.0.0"
+  },
+  "main": "electron-main.cjs",
+  "srcripts": {
+    "start": "electron ."
+  },
+  "bluild": {
+    "directories": {
+      "output": "realise"
+    },
+    "appId": "com.groupe4.gestiondepenses",
+    "productName": "Gestion des Depenses"
   }
 }
