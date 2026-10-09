@@ -140,7 +140,18 @@ Git et GitHub
 
     
     ##Captures d'ecran
-    Des captures d'écran de l'application seront ajoutées lorsque l'nterface sera finalisé
+    Des captures d'écran de l'application 
+
+    ##Formulaire d'ajout
+    ![Formulaire d'ajout] (./public/AjoutExpense.png)
+
+    ##Liste des dépense
+    ![Liste des dépenses] (./public/ListeExpense.png)
+
+    ##Modification d'une dépense
+    ![Modification](./public/ModifierExpense.png)
+
+    on a mis les total et filtrer dans App.vue
 
     ##Licence 
     Projet universitaire réalisé à des fins pédagogiques
