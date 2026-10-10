@@ -121,6 +121,10 @@ Git et GitHub
 
 | 13 | RAZAFIMANDIMBY Franthony | 13ISST24-1731FGCI/GInfo |
 
+|14 | RAZAFIMAHARAVO Elysér | 12ISST23-1459FGCI/Ginfo |
+
+|15 | MANANJARA Antonin Gildas | 12ISST23-1345FGCI/Ginfo |
+
 
     ##Orgranisation du projet
         src:/
@@ -143,13 +147,13 @@ Git et GitHub
     Des captures d'écran de l'application 
 
     ##Formulaire d'ajout
-    ![Formulaire d'ajout] (./public/AjoutExpense.png)
+    ![Formulaire d'ajout](public/AjoutExpense.png)
 
     ##Liste des dépense
-    ![Liste des dépenses] (./public/ListeExpense.png)
+    ![Liste des dépenses](public/ListeExpense.png)
 
     ##Modification d'une dépense
-    ![Modification](./public/ModifierExpense.png)
+    ![Modification](public/ModifierExpense.png)
 
     on a mis les total et filtrer dans App.vue
 
